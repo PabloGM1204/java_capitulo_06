@@ -5,7 +5,6 @@ public class Ejercicio14{
         System.out.println("Este programa intetara adivinar tu número");
         int max = 100;
         int min = 0;
-        int na = 0;
         boolean acertado = false;
         for(int i = 1; i<=5; i++){
             int numpen = (int)(Math.random()*(max-min)+min);
