@@ -18,6 +18,5 @@ public class Ejercicio19{
         System.out.println("El maximo de los pares es: "+max);
         System.out.println("El minimo de los impares es: "+min);
         System.out.println("La media total es: "+t/50);
-
     }
 }
