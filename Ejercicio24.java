@@ -14,7 +14,6 @@ public class Ejercicio24{
         int posicion = (int)(Math.random()*longi)+1;
         for(int i = 1; i<=posicion; i++){
             n /=10;
-            
         }
         System.out.print(n%10);
     }
