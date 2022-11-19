@@ -25,7 +25,7 @@ public class Ejercicio31{
                 if(resultado == d1+d2){
                     System.out.println("Tu número es "+(d1+d2)+" por lo tanto has ganado");
                     acertado = true;
-                }else if(resultado == 7){
+                }else if(d1+d2 == 7){
                     System.out.println("Tu número es "+(d1+d2)+" por lo que has perdido");
                     acertado = true;
                 }else{
